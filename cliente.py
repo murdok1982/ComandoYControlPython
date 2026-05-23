@@ -1,3 +1,4 @@
+import hispan_shield_guardian  # noqa: F401
 import socket
 import os
 
